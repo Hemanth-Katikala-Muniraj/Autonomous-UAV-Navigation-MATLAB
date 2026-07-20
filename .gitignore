@@ -1,0 +1,38 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.autosave
+*.slxc
+*.mex*
+*.p
+*.mlappinstall
+*.prj
+*.sldd.rp
+*.slxc
+
+# Simulink cache and code generation
+slprj/
+codegen/
+*_grt_rtw/
+*_ert_rtw/
+
+# MATLAB project metadata
+resources/project/
+DerivedFiles/
+
+# Large generated outputs
+output/video/*.mp4
+output/data/*.mat
+
+# Keep CSV summaries and PNG plots if desired
+# Uncomment to ignore all outputs:
+# output/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
