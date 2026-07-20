@@ -247,10 +247,6 @@ The landing sequence contains:
 - App Designer controls
 - Automated parameter sweeps and regression testing
 
-## Resume Bullet
-
-Developed a MATLAB-based autonomous UAV simulation integrating 360° LiDAR, APF collision avoidance, dynamic bird avoidance, occupancy-grid SLAM-style mapping, wind compensation, FPV visualization, and multi-phase precision landing; achieved approximately 0.80 m minimum dynamic-obstacle clearance, 92.7% map coverage, and 0.02 m/s touchdown vertical speed while exporting CSV/MAT telemetry and MP4 mission recordings.
-
 ## Results
 See the infographic above and generated mission video in `output/video`.
 
