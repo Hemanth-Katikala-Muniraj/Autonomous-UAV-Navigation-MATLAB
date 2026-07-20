@@ -123,7 +123,6 @@ AutonomousDroneMATLAB/
 ├── docs/
 │   ├── ARCHITECTURE.md
 │   ├── TEST_PLAN.md
-│   └── INTERVIEW_GUIDE.md
 └── output/
     ├── data/
     ├── video/
