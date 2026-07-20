@@ -1,6 +1,16 @@
-# Autonomous Drone Navigation and Obstacle Avoidance in MATLAB
+# 🚁 Autonomous UAV Navigation & Dynamic Obstacle Avoidance in MATLAB
 
-A complete MATLAB simulation of an autonomous UAV operating in a 3D urban environment with waypoint navigation, 360° LiDAR sensing, static and dynamic obstacle avoidance, occupancy-grid mapping, wind disturbance compensation, FPV visualization, refined landing, telemetry logging, and MP4 recording.
+<p align="center">
+  <img src="assets/Infographics.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MATLAB-R2024b-orange">
+  <img src="https://img.shields.io/badge/Simulation-3D-success">
+  <img src="https://img.shields.io/badge/LiDAR-360°-blue">
+  <img src="https://img.shields.io/badge/SLAM-Occupancy%20Grid-green">
+  <img src="https://img.shields.io/badge/APF-Obstacle%20Avoidance-red">
+</p>
 
 ## Project Highlights
 
@@ -67,6 +77,8 @@ flowchart LR
 ```text
 AutonomousDroneMATLAB/
 ├── main.m
+├──asset/
+    └── Infographics.png
 ├── config/
 │   └── simulationConfig.m
 ├── drone/
@@ -240,6 +252,12 @@ The landing sequence contains:
 
 Developed a MATLAB-based autonomous UAV simulation integrating 360° LiDAR, APF collision avoidance, dynamic bird avoidance, occupancy-grid SLAM-style mapping, wind compensation, FPV visualization, and multi-phase precision landing; achieved approximately 0.80 m minimum dynamic-obstacle clearance, 92.7% map coverage, and 0.02 m/s touchdown vertical speed while exporting CSV/MAT telemetry and MP4 mission recordings.
 
+## Results
+See the infographic above and generated mission video in `output/video`.
+
 ## License
 
 This repository is released under the MIT License. See `LICENSE`.
+
+## Author
+**Hemanth Katikala Muniraj**
