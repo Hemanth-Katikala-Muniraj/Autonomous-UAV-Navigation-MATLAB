@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MATLAB-R2024b-orange">
+  <img src="https://img.shields.io/badge/MATLAB-R2025b-orange">
   <img src="https://img.shields.io/badge/Simulation-3D-success">
   <img src="https://img.shields.io/badge/LiDAR-360°-blue">
   <img src="https://img.shields.io/badge/SLAM-Occupancy%20Grid-green">
